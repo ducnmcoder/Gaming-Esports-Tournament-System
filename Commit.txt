@@ -1,1 +1,1 @@
-"docs: update README with login instructions"
+"feat: add registration page with form"
