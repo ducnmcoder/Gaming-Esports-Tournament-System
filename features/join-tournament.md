@@ -7,3 +7,6 @@ Allow players to join tournaments and compete with others.
 - Click join button
 - Receive join confirmation
 - Prevent duplicate tournament registration
+
+## Notes
+Players can only join tournaments before registration closes.
