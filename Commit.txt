@@ -1,1 +1,1 @@
-"feat: implement login form"
+"fix: correct password validation logic"
