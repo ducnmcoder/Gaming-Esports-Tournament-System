@@ -1,0 +1,10 @@
+
+1. As a player, I want to register an account, so that I can join tournaments.
+
+2. As a player, I want to join a tournament, so that I can compete with others.
+
+3. As an admin, I want to manage tournament schedules, so that matches run smoothly.
+
+4. As a player, I want to view match results, so that I can track my performance.
+
+5. As an admin, I want to create tournaments, so that players can participate.
